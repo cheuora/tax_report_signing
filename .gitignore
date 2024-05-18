@@ -2,3 +2,4 @@ node_modules/
 pdffiles/
 readyfiles/
 uploads/
+.DS_Store
